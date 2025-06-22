@@ -150,7 +150,3 @@ if command -v fzf >/dev/null; then
   }
 fi
 
-# git clone https://github.com/scop/bash-completion ~/.bash_completion.d
-# git clone https://github.com/dvorka/hstr.git ~/.hstr
-# sudo apt install hstr
-# Syntax highlighting using hstr
